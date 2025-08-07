@@ -1,7 +1,7 @@
 # o4six1's neovim config
 still a work in progress
 
-> [!IMPORTANT]
+> [!WARNING]
 > THIS CONFIG USES NEOVIM 12. IT DOES NOT WORK IN LOWER VERSIONS
 
 plugins included:
