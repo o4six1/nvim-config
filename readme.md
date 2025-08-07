@@ -1,8 +1,8 @@
 # o4six1's neovim config
-still a work in progress
+Make your own don't use this
 
 > [!WARNING]
-> THIS CONFIG USES NEOVIM 12. IT DOES NOT WORK IN LOWER VERSIONS
+> This config requires neovim >= v0.12
 
 plugins included:
 - [catppuccin](https://github.com/catppuccin/nvim)
