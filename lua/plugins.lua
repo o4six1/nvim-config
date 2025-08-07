@@ -30,4 +30,4 @@ require("oil").setup {
 	}
 }
 
-vim.lsp.enable { 'lua_ls' } -- Add lsp(s) if needed
+vim.lsp.enable { 'lua_ls', 'tinymist', 'gdscript' }
